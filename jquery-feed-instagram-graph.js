@@ -32,7 +32,7 @@ if ( $('#instagram-feed1').length != 0 ) {
             }
         },
         error: function(data) { 
-            var html = '<div class="p-10px-tb">No Images Found</div>'; 
+            var html = '<div class="class-no-data">No Images Found</div>'; 
             $('#instagram-feed1').append(html); 
             }
     });
