@@ -23,3 +23,4 @@ Optional compatible CSS style is included in the files. Edit as needed.
 <p>- Editions and suggestions are always welcome!</p>
 
 <p>Official Graph API Instagram documentation can be found <a href="https://developers.facebook.com/docs/instagram-basic-display-api/reference/media/" target="blank">here</a></p>
+<p>If you prefer <strong>PHP</strong>, this script follows the same concepts and classes <a href="https://github.com/ribeiroeder/php-curl-instagram-graph/" target="blank">PHP cURL for feed Instagram Graph API</a></p>
