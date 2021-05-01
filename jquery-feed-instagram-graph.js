@@ -1,9 +1,9 @@
 // jQuery Ajax for feed Instagram Graph API
 if ( $('#instagram-feed1').length != 0 ) {
 
-    var token = 'IGQVJVYllVTGUwNk5GUDlfbklrVnFhWlgwMTNHaTNZAQUNzVHo1WVJFSVdaZAlNQTUxENUl3dlhlMVVLdGJZAbHducVdmd1VvMmoydWs1RFFjZAWNtTDUzUmM2cHZAaZAEVfOVlZAN1NpLUpPakFET3dWaWJPSwZDZD';
+    var token = 'ENTER_YOUR_TOKEN_ID_HERE';
     var fields = 'id,media_type,media_url,thumbnail_url,timestamp,permalink,caption';
-    var limit = 6;
+    var limit = 6; // Set a number of display items
 
     $.ajax ( {
         url: 'https://graph.instagram.com/me/media?fields='+ fields +'&access_token='+ token +'&limit='+ limit,
