@@ -1,4 +1,4 @@
-// jQuery Ajax for feed Instagram Graph API
+// jQuery Ajax for feed Instagram Graph API 
 if ( $('#instagram-feed1').length != 0 ) {
 
     var token = 'ENTER_YOUR_TOKEN_ID_HERE';
