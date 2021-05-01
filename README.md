@@ -16,8 +16,8 @@ Script made based on the new (2020) Instagram API that requires authorization to
 Optional compatible CSS style is included in the files. Edit as needed.
 
 <h2>Notes</h2>
-- The new instagram API still has several limitations.
-- It does not work if you do not generate the token and authorize the application / testers.
-- Only the 1080px image size is supported.
-- Videos are supported! But in this script the default setting opts for the video thumbnail to avoid conflicts.
-- Editions and suggestions are always welcome!
+<p>- The new instagram API still has several limitations.</p>
+<p>- It does not work if you do not generate the token and authorize the application/testers.</p>
+<p>- Only the 1080px image size is supported.</p>
+<p>- Videos are supported! But in this script the default setting opts for the video thumbnail to avoid conflicts.</p>
+<p>- Editions and suggestions are always welcome!</p>
